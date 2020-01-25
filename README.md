@@ -15,7 +15,7 @@ https://github.com/catchorg/Catch2
 
 ## Built With
 
-* Clion trial version
+* CLion trial version
 
 ## Authors
 
